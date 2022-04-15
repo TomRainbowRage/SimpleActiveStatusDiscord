@@ -1,0 +1,15 @@
+C:\Users\tomra\source\repos\DiscordActiveChanger\DiscordActiveChanger\bin\Debug\DiscordActiveChanger.exe.config
+C:\Users\tomra\source\repos\DiscordActiveChanger\DiscordActiveChanger\bin\Debug\DiscordActiveChanger.exe
+C:\Users\tomra\source\repos\DiscordActiveChanger\DiscordActiveChanger\bin\Debug\DiscordActiveChanger.pdb
+C:\Users\tomra\source\repos\DiscordActiveChanger\DiscordActiveChanger\obj\Debug\DiscordActiveChanger.csproj.AssemblyReference.cache
+C:\Users\tomra\source\repos\DiscordActiveChanger\DiscordActiveChanger\obj\Debug\DiscordActiveChanger.Properties.Resources.resources
+C:\Users\tomra\source\repos\DiscordActiveChanger\DiscordActiveChanger\obj\Debug\DiscordActiveChanger.csproj.GenerateResource.cache
+C:\Users\tomra\source\repos\DiscordActiveChanger\DiscordActiveChanger\obj\Debug\DiscordActiveChanger.csproj.CoreCompileInputs.cache
+C:\Users\tomra\source\repos\DiscordActiveChanger\DiscordActiveChanger\obj\Debug\DiscordActiveChanger.exe
+C:\Users\tomra\source\repos\DiscordActiveChanger\DiscordActiveChanger\obj\Debug\DiscordActiveChanger.pdb
+C:\Users\tomra\source\repos\DiscordActiveChanger\DiscordActiveChanger\obj\Debug\DiscordActiveChanger.formti.resources
+C:\Users\tomra\source\repos\DiscordActiveChanger\DiscordActiveChanger\obj\Debug\DiscordActiveChanger.Form2.resources
+C:\Users\tomra\source\repos\DiscordActiveChanger\DiscordActiveChanger\bin\Debug\DiscordActiveChanger.exe.manifest
+C:\Users\tomra\source\repos\DiscordActiveChanger\DiscordActiveChanger\bin\Debug\DiscordActiveChanger.application
+C:\Users\tomra\source\repos\DiscordActiveChanger\DiscordActiveChanger\obj\Debug\DiscordActiveChanger.exe.manifest
+C:\Users\tomra\source\repos\DiscordActiveChanger\DiscordActiveChanger\obj\Debug\DiscordActiveChanger.application
