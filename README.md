@@ -1,2 +1,2 @@
 # SimpleActiveStatusDiscord
-This is a simple active status window form for discord, it doesnt use that much cpu
+This is a windows form that allows you to display the name inputed as "Playing" on discord
